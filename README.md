@@ -1,6 +1,6 @@
 # ft_sommelier
 
-# Jupyter Notebook
+# Jupyter Notebook + Docker
 Создаем директорию 
 
 ```
