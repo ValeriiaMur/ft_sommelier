@@ -1,5 +1,7 @@
 # ft_sommelier
 
+## Elementary Machine Learning Project
+
  ============================= ft_sommelier ===================================
 
  This Dockerfile setup assumes you are going to be using the same physical
